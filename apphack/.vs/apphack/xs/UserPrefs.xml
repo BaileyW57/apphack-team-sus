@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="apphack/MyClass.cs">
+    <Files>
+      <File FileName="apphack/MyClass.cs" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="apphack" expanded="True">
+            <Node name="apphack" expanded="True">
+              <Node name="MyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.ItemProperties.apphack FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
